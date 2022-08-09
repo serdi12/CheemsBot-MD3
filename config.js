@@ -24,23 +24,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6289516947204'] //ur owner number
-global.ownername = "𝚒𝚢𝚊𝚗Ⓒ︎"
-global.ytname = "https://saweria.co/IyanMd " //ur yt chanel name
+global.owner = ['6281364150144'] //ur owner number
+global.ownername = "Ryuu"
+global.ytname = "https://saweria.co/IyanMd" //ur yt chanel name
 global.socialm = "https://saweria.co/IyanMd" //ur github or insta name
 global.location = "Indonesia, Jawa barat, Kota Bekasi" //ur location
 
 //bot bombdy
-global.botname = "𝚁𝙲𝚃𝙸 𝙱𝙾𝚃" //ur bot name
+global.botname = "Rzuu 𝙱𝙾𝚃" //ur bot name
 global.websitex = "https://saweria.co/IyanMd" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
 global.author = "𝚁𝙲𝚃𝙸 𝙱𝙾𝚃"
 global.themeemoji = "📀"
 global.reactmoji = "🥶"
-global.ownertag = ['𝚒𝚢𝚊𝚗Ⓒ︎'] //ur owner tag
-global.ownernummenu = ['6289516947204'] //ur owner number in menu and all
-global.watermark = "𝚁𝙲𝚃𝙸 𝙱𝙾𝚃" //ur watermark
+global.ownertag = ['Ryuu'] //ur owner tag
+global.ownernummenu = ['6281364150144'] //ur owner number in menu and all
+global.watermark = "Ryuuu 𝙱𝙾𝚃" //ur watermark
 global.botscript = "https://saweria.co/IyanMd"
 global.linkz1 = "https://saweria.co/IyanMd"
 global.linkz2 = "https://saweria.co/IyanMd"
